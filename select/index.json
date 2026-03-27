@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "HIMEHINA『ハオ』Cover",
+  "base_track": "HIMEHINA『？？？』Cover",
   "base_artist": "HIMEHINA",
-  "createdAt": "2026-03-20T09:22:56.721589Z",
+  "createdAt": "2026-03-27T17:32:58.101260Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,15 +11,6 @@
       "artist": "HIMEHINA Channel",
       "has_synced": false,
       "path": "select/pl_01_HIMEHINA『琥珀の身体』_HIMEHINA_Channel.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "HIMEHINA『ハオ』Cover",
-      "artist": "HIMEHINA",
-      "has_synced": false,
-      "path": "select/localdb_01_HIMEHINA『ハオ』Cover_HIMEHINA.txt",
-      "repo_name": "DlvdVRnlhVo"
     }
   ]
 }
